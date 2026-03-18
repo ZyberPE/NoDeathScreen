@@ -1,0 +1,6 @@
+name: NoDeathScreen
+main: NoDeathScreen\Main
+version: 1.0.0
+api: 5.0.0
+author: ZyberPE
+description: Automatically respawns players and skips the death screen
